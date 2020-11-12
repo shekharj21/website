@@ -1,0 +1,168 @@
+body {
+
+
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: white;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {font-family: 'Josefin Sans', sans-serif;
+
+}
+
+a{
+  color: #14274e;
+  font-family: 'Kaushan Script', cursive;
+  text-decoration: none;
+  }
+
+  a:hover{
+    color: white
+  }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 10px;
+  width: 5%;
+}
+p{
+  color: white;
+  font-size: 1.2rem;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: normal;
+}
+.top-container {
+
+  position: relative;
+  padding-top: 100px;
+  background-color: #70adb5;
+}
+
+.middle-container {
+
+  padding-top: 100px;
+  background-color: #70adb5;
+
+}
+
+.bottom-container {
+  background-color: #70adb5;
+  padding: 50px 0 20px;
+
+}
+
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 360px;
+
+}
+
+.profilepic{
+  height: 200px;
+  width: 200px;
+}
+.skill-img{
+  height: 200px;
+  width: 200px;
+  padding-bottom: 5
+}
+
+.website-icon{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.skills{
+  padding-top: 100px;
+}
+.skill-row{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.gmail{
+  height: 75px;
+  width: 75px;
+}
+.linkedin{
+  position: relative;
+  height: 75px;
+  width: 75px;
+
+}
+.facebook{
+  height: 75px;
+  width: 75px;
+}
+.mountain1{
+  width: 800px;
+  height: 500px;
+}
+.gmail{
+  position: relative;
+  top: 1px;
+  padding-bottom: 30px;
+}
+
+
+
+.facebook{
+
+  position: relative;
+  top: 1px;
+  padding-bottom: 30px;
+}
+.website1{
+  position: relative;
+  top: 40px;
+}
+.copyright{
+  font-size: 1.0rem;
+  color: white;
+  margin: 20px;
+  padding-bottom: 50px;
+}
+.get{
+  height: 200px;
+  width: 200px;
+}
+.design{
+  text-align: center;
+}
+
+.info{
+  text-align: center;
+}
+
+.des{
+  position: relative;
+  bottom: 60px;
+  text-align: center;
+}
